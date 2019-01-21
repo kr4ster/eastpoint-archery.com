@@ -24,3 +24,16 @@ body {
 .top-bar a:hover {
     color: #d9d9d9;
 }
+
+#coaches-1 {
+    height: 250px;
+    background: url(/images/coaches-1.png) no-repeat;
+}
+
+#coaches-summary {
+    background: #0F4E9D;
+    color: white;
+    height: 50px;
+    padding-left: 10px;
+    padding-top: 15px;
+}
